@@ -1,20 +1,20 @@
 [
    {
-      "title":"2Boost your conversion rate",
-      "href":"#",
+      "title":"Yazışmalarınızı Elektronik Ortamda Daha Güvenli Bir Şekilde Yürütün",
+      "href":"https://guide.onaylarim.com/blog/KEP",
       "category":{
-         "name":"Article",
-         "href":"#"
+         "name":"Makale",
+         "href":"https://guide.onaylarim.com/blog/KEP"
       },
-      "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto accusantium praesentium eius, ut atque fuga culpa, similique sequi cum eos quis dolorum.",
-      "date":"Mar 16, 2020",
-      "datetime":"2020-03-16",
+      "description":"İş hayatımızda hatta özel hayatımızda bile çoğu yazışmamızı, belge paylaşımlarımızı e-posta üzerinden yapıyoruz. Kullanım kolaylığı, özellikle mobil cihazlardan da erişebiliyor olmamız e-postanın bize en cazip gelen özelliklerinden bir tanesi. Ancak güvenilirliğini de bu özelliklerle beraber sorgulamamız gerekiyor.",
+      "date":"Aralık 29, 2022",
+      "datetime":"2022-12-29",
       "imageUrl":"https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-      "readingTime":"6 min",
+      "readingTime":"4 dakika",
       "author":{
-         "name":"İrem G.",
+         "name":"Bengi O.",
          "title":"ONAYLARIM Destek Ekibi",
-         "imageUrl":"/img/blog/irem.png"
+         "imageUrl":"/img/blog/bengi.jpg"
       }
    }
 ]
