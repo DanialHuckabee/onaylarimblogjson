@@ -1,0 +1,17 @@
+[
+    {
+        name: "İrem G.",
+        title: "ONAYLARIM Destek Ekibi",
+        imageUrl: "/img/blog/irem.png",
+    },
+    {
+        name: "Gülsüm K.",
+        title: "ONAYLARIM Destek Ekibi",
+        imageUrl: "/img/blog/gulsum.jpg",
+    },
+    {
+        name: "Bengi O.",
+        title: "ONAYLARIM Destek Ekibi",
+        imageUrl: "/img/blog/bengi.jpg",
+    },
+]
